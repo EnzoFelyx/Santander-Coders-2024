@@ -7,3 +7,5 @@
 ### comando git pull
 
 ### comando git fetch.
+
+### marge em arquivo já assistente
