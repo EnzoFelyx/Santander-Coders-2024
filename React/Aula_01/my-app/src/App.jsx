@@ -15,7 +15,7 @@ class App extends React.Component {
       <>
         <NavBar />
         
-        <Counter/>
+        {/* <Counter/> */}
 
         <section id="articles">
 
