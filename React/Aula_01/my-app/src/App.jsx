@@ -1,6 +1,7 @@
 import React from "react";
 import { NavBar } from "./components/NavBar/NavBar";
 import { Article } from "./components/Article/Article";
+import { Counter } from "./components/Counter/Counter";
 import "./styles/App.css"
 
 import article1Img from './assets/article1.png'
@@ -13,6 +14,8 @@ class App extends React.Component {
     return (
       <>
         <NavBar />
+        
+        <Counter/>
 
         <section id="articles">
 

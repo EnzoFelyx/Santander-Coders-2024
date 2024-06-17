@@ -1,5 +1,4 @@
 import React from "react";
-import articleIMG from '../../assets/article1.png'
 import "./styles.css"
 
 export class Article extends React.Component {
